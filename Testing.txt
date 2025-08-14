@@ -1,0 +1,6 @@
+cd /d "F:\Class pratice\OS Week 11"
+
+x
+python client_gui.py
+    "user1": "password1",
+    "user2": "password2"
